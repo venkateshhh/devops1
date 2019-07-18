@@ -1,0 +1,9 @@
+ctm:
+  mountpoints:
+    - /usr/ctmapps
+    - /home/ctm
+    - /home
+  users:
+    ctm: ctmuser
+    ctm_start_stop: ctmctrl
+
